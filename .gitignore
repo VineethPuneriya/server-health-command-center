@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env/
+.DS_Store
+xgboost_model.joblib
+Data/ai4i2020.csv
